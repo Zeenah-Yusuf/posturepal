@@ -3,18 +3,18 @@
 PosturePal is a real-time posture monitoring and feedback application built with Streamlit and MediaPipe. It uses your webcam to analyze your posture, provide corrective feedback, and track your progress over time. Whether you're working at a desk or practicing better ergonomics, PosturePal helps you sit and stand tall — one session at a time.
 
 
-## 🚀 Features
+## Features
 
-- 🎥 Real-time posture detection using your webcam
-- 📊 Posture scoring with animated feedback and improvement tips
-- 📅 Daily, weekly, monthly, and yearly posture trend tracking
-- 🧑‍💼 Admin dashboard for managing users and resetting history
-- ☁️ Dropbox integration for cloud-based history backup
-- 🖼️ 3D avatar feedback that changes based on your posture
-- 🔔 Smart stretch reminders to encourage healthy breaks
+-  Real-time posture detection using your webcam
+-  Posture scoring with animated feedback and improvement tips
+-  Daily, weekly, monthly, and yearly posture trend tracking
+-  Admin dashboard for managing users and resetting history
+-  Dropbox integration for cloud-based history backup
+-  3D avatar feedback that changes based on your posture
+-  Smart stretch reminders to encourage healthy breaks
 
 
-## 📁 Project Structure
+##  Project Structure
 
 
 posturepal/
@@ -76,7 +76,7 @@ Then open the provided local URL in your browser to start using PosturePal.
 
 
 
-## 🔐 .gitignore Highlights
+## .gitignore Highlights
 
 To keep your repository clean and secure, the following are excluded:
 
@@ -108,7 +108,7 @@ poses/
 *.glb
 
 
-##  Admin Access
+**##  Admin Access**
 
 To access the Admin Dashboard:
 
@@ -116,12 +116,12 @@ To access the Admin Dashboard:
 - Manage users, delete accounts, or reset posture history
 
 
-##  Dropbox Integration
+**##  Dropbox Integration**
 
 PosturePal automatically uploads user posture logs to Dropbox using the Dropbox API. Ensure your `.env` file contains valid credentials and a refresh token.
 
 
-## Future Enhancements
+**## Future Enhancements**
 
 - Google Drive sync option
 - Session-based analytics and summaries
@@ -130,7 +130,7 @@ PosturePal automatically uploads user posture logs to Dropbox using the Dropbox 
 - AI-based posture correction suggestions
 
 
-##  Contributing
+**##  Contributing**
 
 Contributions are welcome! To contribute:
 
@@ -142,6 +142,6 @@ Contributions are welcome! To contribute:
 
 
 
-##  Questions or Feedback?
+**##  Questions or Feedback?**
 
 Feel free to open an issue or reach out with suggestions. Let’s build better posture habits together!
