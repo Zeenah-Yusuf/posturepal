@@ -1,0 +1,8 @@
+* text=auto
+*.py linguist-language=Python
+*.md linguist-language=Markdown
+*.glb binary
+*.xlsx binary
+*.jpg binary
+*.png binary
+*.gif binary
