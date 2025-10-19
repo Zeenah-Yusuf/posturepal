@@ -1,0 +1,29 @@
+*# Virtual environment
+posturepal-env/
+
+# Python cache
+__pycache__/
+
+# Streamlit cache and config
+.streamlit/
+
+# Secrets and credentials
+.env
+token.json
+credentials.json
+
+# User posture logs
+history/
+*.xlsx
+
+# Avatar images
+avatars/
+*.png
+*.jpg
+*.jpeg
+
+# 3D model files
+poses/
+*.glb
+*.gltf
+*.fbx
