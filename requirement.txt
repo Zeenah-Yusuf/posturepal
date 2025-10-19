@@ -1,0 +1,11 @@
+streamlit
+opencv-python
+mediapipe
+dropbox
+pandas
+numpy
+matplotlib
+python-dotenv
+openpyxl
+Pillow
+
