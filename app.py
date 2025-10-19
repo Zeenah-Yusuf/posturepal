@@ -1,8 +1,9 @@
 import streamlit as st
+import os
+os.environ["OPENCV_VIDEOIO_PRIORITY_MSMF"] = "0"
 import cv2
 import mediapipe as mp
 import pandas as pd
-import os
 import time
 from datetime import datetime, timedelta
 from utils.posture_analysis import analyze_posture
